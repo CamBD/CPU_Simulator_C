@@ -1,0 +1,4 @@
+// second sample script to test simulator
+// both tests output to the same execution_10272935_101219748.txt, and system_status_10272935_101219748.txt files
+g++ interrupts_101272935_101219748.cpp -I interrupts_101272935_101219748.hpp -o sim
+./sim external_files2_10272935_101219748.txt trace2_10272935_101219748.txt vector_table_10272935_101219748.txt

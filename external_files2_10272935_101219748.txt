@@ -1,0 +1,3 @@
+program1, 25
+program2, 40
+program3, 8
